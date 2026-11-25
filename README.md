@@ -67,5 +67,6 @@
 
 这些是同一个人和同一个 AI 一起做的，可以连着看：
 
+- [android-phone-as-ai-body](https://github.com/waterside0219/android-phone-as-ai-body)：给 AI 一部手机当身子，脸、眼睛、耳朵、嗓子
 - [ai-live2d-from-one-image](https://github.com/waterside0219/ai-live2d-from-one-image)：一张平面图做成会动的 Live2D，装进手机和桌面
 - [ai-answers-real-phone-calls](https://github.com/waterside0219/ai-answers-real-phone-calls)：AI 接一通真的电话（进行中）
