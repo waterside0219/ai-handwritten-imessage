@@ -58,7 +58,3 @@
 - 笔顺数据不在仓库里。用 `scripts/get-hanzi.sh` 从 [hanzi-writer-data](https://github.com/chanind/hanzi-writer-data) 下载，它来自 [Make Me a Hanzi](https://github.com/skishore/makemeahanzi)，字形数据按 Arphic Public License 授权，使用前请读它的许可。
 - [WebDriverAgent](https://github.com/appium/WebDriverAgent) 请从 Appium 的仓库自己取。
 - 本仓库的代码和文档：MIT。
-
-## 一句提醒
-
-这是给认识你、愿意收的人写字用的。新账号发信息苹果盯得紧，别拿它群发。
