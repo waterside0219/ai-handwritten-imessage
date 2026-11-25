@@ -1,0 +1,6 @@
+.wda-session
+hanzi/
+__pycache__/
+*.png
+*.xml
+.DS_Store
